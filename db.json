@@ -19,6 +19,63 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
+      "cost": 200,
+      "services": [
+        {
+          "cost": "100",
+          "name": "novo servico",
+          "description": "faz nada",
+          "id": "0c61692f-42d3-4a29-8054-43d17858d322"
+        },
+        {
+          "cost": "100",
+          "name": "novo servico 3",
+          "description": "faz nada",
+          "id": "9b794c1e-9205-4d04-a3fb-11a1ea9e72fd"
+        }
+      ]
+    },
+    {
+      "id": "3b4c",
+      "name": "dfz",
+      "budget": "325",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "2b28",
+      "name": "sdf",
+      "budget": "34",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "1b7f",
+      "name": "awdf",
+      "budget": "3252",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "58dc",
+      "name": "awasdf",
+      "budget": "32453",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
       "cost": 0,
       "services": []
     }
